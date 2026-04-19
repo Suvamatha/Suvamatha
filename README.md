@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👨‍💻 Flutter Developer | Building Real Apps<br><br>I’m a developer focused on building **useful, real-world mobile applications** using Flutter.<br><br>🚀 Current Projects<br><br>* 💊 Medicine Reminder App<br><br>  * Notifications<br>  * Dashboard & analytics<br>  * History tracking<br>* 📱 Calculator App (Flutter)<br><br> 🧠 What I’m Learning<br><br>* Advanced Flutter UI<br>* App architecture & state management<br>* Mobile app optimization<br>* Play Store deployment<br><br> 🛠️ Tech Stack<br><br>* Flutter, Dart<br>* Hive (Local Database)<br>* Git & GitHub<br><br>## 🎯 Vision<br><br>To build impactful apps that solve real daily-life problems and grow as a professional developer.<br><br>---<br><br>⭐ Always learning. Always building.<br>
+# 👨‍💻 Flutter Developer | Building Real Apps<br><br>I’m a developer focused on building **useful, real-world mobile applications** using Flutter.<br><br> 🎯 Vision<br><br>To build impactful apps that solve real daily-life problems and grow as a professional developer.<br><br>---<br><br>⭐ Always learning. Always building.<br>
 
 
 ## 🌐 Socials:
