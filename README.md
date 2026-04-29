@@ -1,5 +1,5 @@
 #  About Me:
-# 👨‍💻 Flutter Developer | Building Real Apps<br><br>## I’m a developer focused on building **useful, real-world mobile applications** using Flutter.<br><br>  Vision<br><br>To build impactful apps that solve real daily-life problems and grow as a professional developer.<br><br>---<br><br>
+# 👨‍💻 Flutter Developer | Building Real Apps<br><br> I’m a developer focused on building **useful, real-world mobile applications** using Flutter.<br><br>  Vision<br><br>To build impactful apps that solve real daily-life problems and grow as a professional developer.<br><br>
 
 
 ##  Socials:
